@@ -4,9 +4,9 @@ Descubra o verdadeiro potencial dos seus Pokémons.
 
 ## Conteúdo
 
-- [Tecnologias Utilizadas](#technologies)
-- [Configuração do Ambiente](#setup)
-- [Conteúdo](#features)
+- [Tecnologias Utilizadas](#Tecnologias Utilizadas)
+- [Configuração do Ambiente](#Configuração do Ambiente)
+- [Conteúdo](#Conteúdo)
 
 ## Tecnologias Utilizadas
 
